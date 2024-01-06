@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Aza, a full-time software engineer and professional computer toucher 👉🏾💻.</div>  
+### <div align="center">I'm Aza, a professional computer toucher 👉🏾💻.</div>  
   
 
 - 🌱 I’m currently learning Rust 🦀
