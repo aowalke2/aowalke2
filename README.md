@@ -6,6 +6,5 @@
 ### <div align="center">I'm Aza, a professional computer toucher 👉🏾💻.</div>  
   
 
-- 🌱 I’m currently learning Rust 🦀
 <br>
 <!--<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>-->
